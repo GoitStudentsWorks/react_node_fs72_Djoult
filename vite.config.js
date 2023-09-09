@@ -4,7 +4,7 @@ import svgr from 'vite-plugin-svgr';
 
 export default defineConfig({
   plugins: [react(), svgr()],
-  base: '/project-Dream4IT',
+  base: '/react_node_fs72_Djoult',
   resolve: {
     alias: {
       src: '/src',
