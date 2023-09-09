@@ -1,4 +1,4 @@
-import{n as i,P as t,j as e,L as O,r as a,c as P,q as R,t as F}from"./index-10ae4050.js";import{T as M}from"./TitlePage-75bcd926.js";import{E as W}from"./EllipsesLayout-81181f4c.js";import{U as B,B as U}from"./Button Pagination-87050513.js";import{C as V}from"./ListCardsTwo.styled-31cb9bac.js";const Y="/react_node_fs72_Djoult/assets/down-arrow-svgrepo-com-8dce313c.svg",N="/react_node_fs72_Djoult/assets/loop-svgrepo-com-a28bd999.svg";i.div`
+import{n as i,P as t,j as e,L as O,r as a,c as P,q as R,t as F}from"./index-97a138da.js";import{T as M}from"./TitlePage-a1e59ba6.js";import{E as W}from"./EllipsesLayout-844ea4a6.js";import{U as B,B as U}from"./Button Pagination-03ca1254.js";import{C as V}from"./ListCardsTwo.styled-70296212.js";const Y="/react_node_fs72_Djoult/assets/down-arrow-svgrepo-com-8dce313c.svg",N="/react_node_fs72_Djoult/assets/loop-svgrepo-com-a28bd999.svg";i.div`
     display: flex;
     max-width: 335px;
 `;const G=i.div`
